@@ -1,7 +1,7 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 ## Homepage
-<img src="https://github.com/DynastyElvis/Rapid-API-consuming-AppPublic-/blob/main/Assets/images/Screenshot%20from%202023-01-13%2013-02-48.png" width="800px" height="400px">
+<img src="https://github.com/DynastyElvis/Laravel-Sanctum-APIs/blob/main/assets/WhatsApp%20Image%202023-01-31%20at%2011.58.37%20(1).jpeg" width="800px" height="400px">
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
